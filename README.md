@@ -1,10 +1,10 @@
 # LeetCode-Solutions
 
-Welcome to my LeetCode Solutions repository! Here, where algorithmic mastery meets the elegance of TypeScript and the versatility of Python! 🚀. Whether you're a fellow programmer looking for insights or a curious learner eager to explore different problem-solving approaches, this repository has something for you.
+Welcome to my LeetCode Solutions repository! Here, where algorithmic mastery meets the elegance of TypeScript! 🚀 Whether you're a fellow programmer looking for insights or a curious learner eager to explore different problem-solving approaches, this repository has something for you.
 
 ## Why LeetCode?
 
-LeetCode is a fantastic platform for sharpening your coding skills, mastering algorithms and preparing for technical interviews. By solving LeetCode problems, you enhance your problem-solving abilities and gain exposure to a wide range of algorithmic techniques and data structures. Are you ready to embark on an exhilarating journey through the world of algorithms and data structures? Just solve one question ber day. 👍
+LeetCode is a fantastic platform for sharpening your coding skills, mastering algorithms, and preparing for technical interviews. By solving LeetCode problems, you enhance your problem-solving abilities and gain exposure to a wide range of algorithmic techniques and data structures. Are you ready to embark on an exhilarating journey through the world of algorithms and data structures? Just solve one question per day. 👍
 
 ## What's Inside?
 
@@ -24,13 +24,12 @@ Using the solutions is straightforward:
 
 Contributions are highly encouraged! Whether you have a better solution or suggestions for improvement, your input is valuable. Simply open an issue or submit a pull request, and let's collaborate to make this repository even better!
 
-## TypeScript and Python: The Perfect Duo
+## TypeScript: The Language of Choice
 
-With solutions meticulously crafted in TypeScript and Python, this repository offers the best of both worlds. Whether you prefer the type safety and modern syntax of TypeScript or the simplicity and versatility of Python, you'll find a wealth of knowledge and inspiration waiting for you here.
+With solutions meticulously crafted in TypeScript, this repository offers the best of modern JavaScript-based programming. TypeScript provides type safety, modern syntax, and powerful tooling, making it an excellent choice for solving algorithmic problems.
 
 ## Get Started!
 
 Ready to dive in? Start exploring the LeetCode solutions now and embark on a journey of learning, discovery, and mastery.
 
 Happy coding, and may your algorithms shine bright! 💫
-
