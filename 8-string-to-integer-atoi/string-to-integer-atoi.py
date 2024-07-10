@@ -1,9 +1,5 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        if not s:
-            return 0
-        
-        # Initialize variables
         negative = False
         result = 0
         i = 0
